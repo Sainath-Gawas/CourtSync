@@ -1,0 +1,14 @@
+# Ignore compiled Java classes
+*.class
+bin/
+build/
+
+#Eclipse specific workspace files
+.metadata/
+.settings/
+.classpath
+.project
+
+# Ignore OS hidden files
+.DS_Store
+Thumbs.db
